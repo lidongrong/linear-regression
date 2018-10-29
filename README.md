@@ -5,10 +5,14 @@
 
 有着糟糕的代码风格和注释
 
+功能还很简陋
+
 一看就是出自初学者之手
 
 A Python package with different algorithms in linear regression
 
 With awful coding dress
 
-Obviously it is programmed by a green hand
+and crude functions
+
+Obviously it is made by a green hand
